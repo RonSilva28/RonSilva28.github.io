@@ -309,9 +309,10 @@ form label input:required:valid {
 
 
 .firstimg { 
-    width: 50%;
-    padding: 1em 1em;
+    width: 40%;
+    padding: .1em 1em;
     margin:100;
+    
     
 }
 .firstimg figcaption{
